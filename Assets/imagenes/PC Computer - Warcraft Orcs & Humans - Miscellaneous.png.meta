@@ -1,0 +1,2605 @@
+fileFormatVersion: 2
+guid: 20faa6ef82ba44649999d1a7c8f14723
+timeCreated: 1531199732
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Warcraft Orcs & Humans - Miscellaneous_0
+    21300002: PC Computer - Warcraft Orcs & Humans - Miscellaneous_1
+    21300004: PC Computer - Warcraft Orcs & Humans - Miscellaneous_2
+    21300006: PC Computer - Warcraft Orcs & Humans - Miscellaneous_3
+    21300008: PC Computer - Warcraft Orcs & Humans - Miscellaneous_4
+    21300010: PC Computer - Warcraft Orcs & Humans - Miscellaneous_5
+    21300012: PC Computer - Warcraft Orcs & Humans - Miscellaneous_6
+    21300014: PC Computer - Warcraft Orcs & Humans - Miscellaneous_7
+    21300016: PC Computer - Warcraft Orcs & Humans - Miscellaneous_8
+    21300018: PC Computer - Warcraft Orcs & Humans - Miscellaneous_9
+    21300020: PC Computer - Warcraft Orcs & Humans - Miscellaneous_10
+    21300022: PC Computer - Warcraft Orcs & Humans - Miscellaneous_11
+    21300024: PC Computer - Warcraft Orcs & Humans - Miscellaneous_12
+    21300026: PC Computer - Warcraft Orcs & Humans - Miscellaneous_13
+    21300028: PC Computer - Warcraft Orcs & Humans - Miscellaneous_14
+    21300030: PC Computer - Warcraft Orcs & Humans - Miscellaneous_15
+    21300032: PC Computer - Warcraft Orcs & Humans - Miscellaneous_16
+    21300034: PC Computer - Warcraft Orcs & Humans - Miscellaneous_17
+    21300036: PC Computer - Warcraft Orcs & Humans - Miscellaneous_18
+    21300038: PC Computer - Warcraft Orcs & Humans - Miscellaneous_19
+    21300040: PC Computer - Warcraft Orcs & Humans - Miscellaneous_20
+    21300042: PC Computer - Warcraft Orcs & Humans - Miscellaneous_21
+    21300044: PC Computer - Warcraft Orcs & Humans - Miscellaneous_22
+    21300046: PC Computer - Warcraft Orcs & Humans - Miscellaneous_23
+    21300048: PC Computer - Warcraft Orcs & Humans - Miscellaneous_24
+    21300050: PC Computer - Warcraft Orcs & Humans - Miscellaneous_25
+    21300052: PC Computer - Warcraft Orcs & Humans - Miscellaneous_26
+    21300054: PC Computer - Warcraft Orcs & Humans - Miscellaneous_27
+    21300056: PC Computer - Warcraft Orcs & Humans - Miscellaneous_28
+    21300058: PC Computer - Warcraft Orcs & Humans - Miscellaneous_29
+    21300060: PC Computer - Warcraft Orcs & Humans - Miscellaneous_30
+    21300062: PC Computer - Warcraft Orcs & Humans - Miscellaneous_31
+    21300064: PC Computer - Warcraft Orcs & Humans - Miscellaneous_32
+    21300066: PC Computer - Warcraft Orcs & Humans - Miscellaneous_33
+    21300068: PC Computer - Warcraft Orcs & Humans - Miscellaneous_34
+    21300070: PC Computer - Warcraft Orcs & Humans - Miscellaneous_35
+    21300072: PC Computer - Warcraft Orcs & Humans - Miscellaneous_36
+    21300074: PC Computer - Warcraft Orcs & Humans - Miscellaneous_37
+    21300076: PC Computer - Warcraft Orcs & Humans - Miscellaneous_38
+    21300078: PC Computer - Warcraft Orcs & Humans - Miscellaneous_39
+    21300080: PC Computer - Warcraft Orcs & Humans - Miscellaneous_40
+    21300082: PC Computer - Warcraft Orcs & Humans - Miscellaneous_41
+    21300084: PC Computer - Warcraft Orcs & Humans - Miscellaneous_42
+    21300086: PC Computer - Warcraft Orcs & Humans - Miscellaneous_43
+    21300088: PC Computer - Warcraft Orcs & Humans - Miscellaneous_44
+    21300090: PC Computer - Warcraft Orcs & Humans - Miscellaneous_45
+    21300092: PC Computer - Warcraft Orcs & Humans - Miscellaneous_46
+    21300094: PC Computer - Warcraft Orcs & Humans - Miscellaneous_47
+    21300096: PC Computer - Warcraft Orcs & Humans - Miscellaneous_48
+    21300098: PC Computer - Warcraft Orcs & Humans - Miscellaneous_49
+    21300100: PC Computer - Warcraft Orcs & Humans - Miscellaneous_50
+    21300102: PC Computer - Warcraft Orcs & Humans - Miscellaneous_51
+    21300104: PC Computer - Warcraft Orcs & Humans - Miscellaneous_52
+    21300106: PC Computer - Warcraft Orcs & Humans - Miscellaneous_53
+    21300108: PC Computer - Warcraft Orcs & Humans - Miscellaneous_54
+    21300110: PC Computer - Warcraft Orcs & Humans - Miscellaneous_55
+    21300112: PC Computer - Warcraft Orcs & Humans - Miscellaneous_56
+    21300114: PC Computer - Warcraft Orcs & Humans - Miscellaneous_57
+    21300116: PC Computer - Warcraft Orcs & Humans - Miscellaneous_58
+    21300118: PC Computer - Warcraft Orcs & Humans - Miscellaneous_59
+    21300120: PC Computer - Warcraft Orcs & Humans - Miscellaneous_60
+    21300122: PC Computer - Warcraft Orcs & Humans - Miscellaneous_61
+    21300124: PC Computer - Warcraft Orcs & Humans - Miscellaneous_62
+    21300126: PC Computer - Warcraft Orcs & Humans - Miscellaneous_63
+    21300128: PC Computer - Warcraft Orcs & Humans - Miscellaneous_64
+    21300130: PC Computer - Warcraft Orcs & Humans - Miscellaneous_65
+    21300132: PC Computer - Warcraft Orcs & Humans - Miscellaneous_66
+    21300134: PC Computer - Warcraft Orcs & Humans - Miscellaneous_67
+    21300136: PC Computer - Warcraft Orcs & Humans - Miscellaneous_68
+    21300138: PC Computer - Warcraft Orcs & Humans - Miscellaneous_69
+    21300140: PC Computer - Warcraft Orcs & Humans - Miscellaneous_70
+    21300142: PC Computer - Warcraft Orcs & Humans - Miscellaneous_71
+    21300144: PC Computer - Warcraft Orcs & Humans - Miscellaneous_72
+    21300146: PC Computer - Warcraft Orcs & Humans - Miscellaneous_73
+    21300148: PC Computer - Warcraft Orcs & Humans - Miscellaneous_74
+    21300150: PC Computer - Warcraft Orcs & Humans - Miscellaneous_75
+    21300152: PC Computer - Warcraft Orcs & Humans - Miscellaneous_76
+    21300154: PC Computer - Warcraft Orcs & Humans - Miscellaneous_77
+    21300156: PC Computer - Warcraft Orcs & Humans - Miscellaneous_78
+    21300158: PC Computer - Warcraft Orcs & Humans - Miscellaneous_79
+    21300160: PC Computer - Warcraft Orcs & Humans - Miscellaneous_80
+    21300162: PC Computer - Warcraft Orcs & Humans - Miscellaneous_81
+    21300164: PC Computer - Warcraft Orcs & Humans - Miscellaneous_82
+    21300166: PC Computer - Warcraft Orcs & Humans - Miscellaneous_83
+    21300168: PC Computer - Warcraft Orcs & Humans - Miscellaneous_84
+    21300170: PC Computer - Warcraft Orcs & Humans - Miscellaneous_85
+    21300172: PC Computer - Warcraft Orcs & Humans - Miscellaneous_86
+    21300174: PC Computer - Warcraft Orcs & Humans - Miscellaneous_87
+    21300176: PC Computer - Warcraft Orcs & Humans - Miscellaneous_88
+    21300178: PC Computer - Warcraft Orcs & Humans - Miscellaneous_89
+    21300180: PC Computer - Warcraft Orcs & Humans - Miscellaneous_90
+    21300182: PC Computer - Warcraft Orcs & Humans - Miscellaneous_91
+    21300184: PC Computer - Warcraft Orcs & Humans - Miscellaneous_92
+    21300186: PC Computer - Warcraft Orcs & Humans - Miscellaneous_93
+    21300188: PC Computer - Warcraft Orcs & Humans - Miscellaneous_94
+    21300190: PC Computer - Warcraft Orcs & Humans - Miscellaneous_95
+    21300192: PC Computer - Warcraft Orcs & Humans - Miscellaneous_96
+    21300194: PC Computer - Warcraft Orcs & Humans - Miscellaneous_97
+    21300196: PC Computer - Warcraft Orcs & Humans - Miscellaneous_98
+    21300198: PC Computer - Warcraft Orcs & Humans - Miscellaneous_99
+    21300200: PC Computer - Warcraft Orcs & Humans - Miscellaneous_100
+    21300202: PC Computer - Warcraft Orcs & Humans - Miscellaneous_101
+    21300204: PC Computer - Warcraft Orcs & Humans - Miscellaneous_102
+    21300206: PC Computer - Warcraft Orcs & Humans - Miscellaneous_103
+    21300208: PC Computer - Warcraft Orcs & Humans - Miscellaneous_104
+    21300210: PC Computer - Warcraft Orcs & Humans - Miscellaneous_105
+    21300212: PC Computer - Warcraft Orcs & Humans - Miscellaneous_106
+    21300214: PC Computer - Warcraft Orcs & Humans - Miscellaneous_107
+    21300216: PC Computer - Warcraft Orcs & Humans - Miscellaneous_108
+    21300218: PC Computer - Warcraft Orcs & Humans - Miscellaneous_109
+    21300220: PC Computer - Warcraft Orcs & Humans - Miscellaneous_110
+    21300222: PC Computer - Warcraft Orcs & Humans - Miscellaneous_111
+    21300224: PC Computer - Warcraft Orcs & Humans - Miscellaneous_112
+    21300226: PC Computer - Warcraft Orcs & Humans - Miscellaneous_113
+    21300228: PC Computer - Warcraft Orcs & Humans - Miscellaneous_114
+    21300230: PC Computer - Warcraft Orcs & Humans - Miscellaneous_115
+    21300232: PC Computer - Warcraft Orcs & Humans - Miscellaneous_116
+    21300234: PC Computer - Warcraft Orcs & Humans - Miscellaneous_117
+    21300236: PC Computer - Warcraft Orcs & Humans - Miscellaneous_118
+    21300238: PC Computer - Warcraft Orcs & Humans - Miscellaneous_119
+    21300240: PC Computer - Warcraft Orcs & Humans - Miscellaneous_120
+    21300242: PC Computer - Warcraft Orcs & Humans - Miscellaneous_121
+    21300244: PC Computer - Warcraft Orcs & Humans - Miscellaneous_122
+    21300246: PC Computer - Warcraft Orcs & Humans - Miscellaneous_123
+    21300248: PC Computer - Warcraft Orcs & Humans - Miscellaneous_124
+    21300250: PC Computer - Warcraft Orcs & Humans - Miscellaneous_125
+    21300252: PC Computer - Warcraft Orcs & Humans - Miscellaneous_126
+    21300254: PC Computer - Warcraft Orcs & Humans - Miscellaneous_127
+    21300256: PC Computer - Warcraft Orcs & Humans - Miscellaneous_128
+    21300258: PC Computer - Warcraft Orcs & Humans - Miscellaneous_129
+    21300260: PC Computer - Warcraft Orcs & Humans - Miscellaneous_130
+    21300262: PC Computer - Warcraft Orcs & Humans - Miscellaneous_131
+    21300264: PC Computer - Warcraft Orcs & Humans - Miscellaneous_132
+    21300266: PC Computer - Warcraft Orcs & Humans - Miscellaneous_133
+    21300268: PC Computer - Warcraft Orcs & Humans - Miscellaneous_134
+    21300270: PC Computer - Warcraft Orcs & Humans - Miscellaneous_135
+    21300272: PC Computer - Warcraft Orcs & Humans - Miscellaneous_136
+    21300274: PC Computer - Warcraft Orcs & Humans - Miscellaneous_137
+    21300276: PC Computer - Warcraft Orcs & Humans - Miscellaneous_138
+    21300278: PC Computer - Warcraft Orcs & Humans - Miscellaneous_139
+    21300280: PC Computer - Warcraft Orcs & Humans - Miscellaneous_140
+    21300282: PC Computer - Warcraft Orcs & Humans - Miscellaneous_141
+    21300284: PC Computer - Warcraft Orcs & Humans - Miscellaneous_142
+    21300286: PC Computer - Warcraft Orcs & Humans - Miscellaneous_143
+    21300288: PC Computer - Warcraft Orcs & Humans - Miscellaneous_144
+    21300290: PC Computer - Warcraft Orcs & Humans - Miscellaneous_145
+    21300292: PC Computer - Warcraft Orcs & Humans - Miscellaneous_146
+    21300294: PC Computer - Warcraft Orcs & Humans - Miscellaneous_147
+    21300296: PC Computer - Warcraft Orcs & Humans - Miscellaneous_148
+    21300298: PC Computer - Warcraft Orcs & Humans - Miscellaneous_149
+    21300300: PC Computer - Warcraft Orcs & Humans - Miscellaneous_150
+    21300302: PC Computer - Warcraft Orcs & Humans - Miscellaneous_151
+    21300304: PC Computer - Warcraft Orcs & Humans - Miscellaneous_152
+    21300306: PC Computer - Warcraft Orcs & Humans - Miscellaneous_153
+    21300308: PC Computer - Warcraft Orcs & Humans - Miscellaneous_154
+    21300310: PC Computer - Warcraft Orcs & Humans - Miscellaneous_155
+    21300312: PC Computer - Warcraft Orcs & Humans - Miscellaneous_156
+    21300314: PC Computer - Warcraft Orcs & Humans - Miscellaneous_157
+    21300316: PC Computer - Warcraft Orcs & Humans - Miscellaneous_158
+    21300318: PC Computer - Warcraft Orcs & Humans - Miscellaneous_159
+    21300320: PC Computer - Warcraft Orcs & Humans - Miscellaneous_160
+    21300322: PC Computer - Warcraft Orcs & Humans - Miscellaneous_161
+    21300324: PC Computer - Warcraft Orcs & Humans - Miscellaneous_162
+    21300326: PC Computer - Warcraft Orcs & Humans - Miscellaneous_163
+    21300328: PC Computer - Warcraft Orcs & Humans - Miscellaneous_164
+    21300330: PC Computer - Warcraft Orcs & Humans - Miscellaneous_165
+    21300332: PC Computer - Warcraft Orcs & Humans - Miscellaneous_166
+    21300334: PC Computer - Warcraft Orcs & Humans - Miscellaneous_167
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 230
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 228
+        width: 28
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4536892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 225
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 222
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 220
+        width: 240
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 228
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_6
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 238
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 253
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_8
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 241
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_9
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 239
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_10
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 248
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_11
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 245
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_12
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 244
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_13
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 231
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 230
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_15
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 236
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_16
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 228
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_17
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 235
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_18
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 232
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_19
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 240
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 231
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_21
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 227
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 225
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_23
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 223
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 196
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 196
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 196
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 196
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 195
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 195
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 196
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 196
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 196
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_34
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 195
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 195
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_36
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 196
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_37
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 196
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_38
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 196
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_39
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 195
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_40
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 195
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_41
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 196
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_42
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 196
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_43
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 196
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 196
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_45
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 202
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_46
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 196
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_47
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 202
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_48
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 206
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_49
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 206
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_50
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 206
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_51
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 196
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_52
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 196
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_53
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 196
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_54
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 167
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_55
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 167
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 167
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_57
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 167
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_58
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 167
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_59
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 167
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_60
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 167
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_61
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 167
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_62
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 167
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 167
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_64
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 167
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_65
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 167
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_66
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 167
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_67
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 167
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_68
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 167
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_69
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 167
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_70
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 167
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_71
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 167
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_72
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 167
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_73
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 167
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_74
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 166
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_75
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 127
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_76
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 121
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_77
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 166
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_78
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 112
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_79
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 127
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_80
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 131
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 137
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_82
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 135
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_83
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 136
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_84
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 125
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_85
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 129
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_86
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 135
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_87
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 134
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_88
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 134
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_89
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 124
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_90
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 128
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 133
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_92
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_93
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 131
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_94
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 125
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_95
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 118
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_96
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 110
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_97
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 134
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_98
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 122
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_99
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 139
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_100
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 121
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_101
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 109
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_102
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 129
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_103
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 124
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_104
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 121
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_105
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_106
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 123
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_107
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 95
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_108
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 101
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_109
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 105
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_110
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_111
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 104
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_112
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 93
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_113
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 99
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_114
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 103
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_115
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 101
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_116
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 102
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 114
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_118
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 110
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_119
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 108
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_120
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 63
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_121
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 67
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_122
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 73
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_123
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 71
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_124
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 72
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_125
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 61
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_126
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 65
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_127
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 71
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_128
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_129
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 70
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_130
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 70
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_131
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 71
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_132
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 71
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_133
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 77
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_134
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 71
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_135
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 72
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_136
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 42
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_137
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 79
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_138
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 89
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_139
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 41
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_140
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 43
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_141
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 47
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_142
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 43
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_143
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_144
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 28
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 28
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 28
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_148
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 28
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_149
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 28
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_150
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 28
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_151
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 26
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_152
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 25
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_153
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 26
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_154
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 27
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_155
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 24
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_156
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 13
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_157
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_158
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 10
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_159
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 10
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_160
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 13
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 14
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_162
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 12
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_163
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 19
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_164
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 11
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_165
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2
+        width: 126
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_166
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Warcraft Orcs & Humans - Miscellaneous_167
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
