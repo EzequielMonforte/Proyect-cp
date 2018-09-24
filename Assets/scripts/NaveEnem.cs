@@ -8,9 +8,12 @@ using UnityEngine;
 public class NaveEnem : MonoBehaviour {
 
 	public Animator animador;
-    float velocidad=-1;
+    float velocidad=-4.2f;
     GameObject BalaEnem;
     public float vida;
+	public AudioSource sonidos;
+	
+	
 	
     
 
@@ -19,19 +22,25 @@ public class NaveEnem : MonoBehaviour {
 	void Start () {
         
         animador= GetComponent<Animator>();
+		//Establecer velocidades naves y objetos que aparecen
 		if (gameObject.tag == "Enem1")
 		{
+			vida = 5;
 			CaracteristicasNave(-2, -6);
 
 		}
 		if (gameObject.tag == "Enem2")
 		{
-			CaracteristicasNave(-5, -8);
+			CaracteristicasNave(-5, -7.2f);
 
 		}
 		if (gameObject.tag == "RecargaBalas")
 		{
-			velocidad = -2.8f; 
+			velocidad = -6.1f; 
+		}
+		if (gameObject.tag == "Piedra")
+		{
+			velocidad = -3.85f;
 		}
 
 
@@ -47,8 +56,8 @@ public class NaveEnem : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-		
-        if(transform.position.y < -11)
+	
+		if (transform.position.y < -11)
         {
             Destroy(gameObject);
             
@@ -62,9 +71,14 @@ public class NaveEnem : MonoBehaviour {
     {
         if(vida<= 1&& otro.gameObject.tag == "Disparo" && vida >= 1)
         {
-            
-            
-            Destroy(gameObject);
+
+
+			sonidos.Play();
+			Destroy(gameObject, 0.25f);
+
+
+
+
 
 			//puntos que da cada nave destruida por parametro
 
@@ -87,23 +101,40 @@ public class NaveEnem : MonoBehaviour {
             
         }
 
-		if (otro.gameObject.tag == "perdervida" && gameObject.tag != "RecargaBalas") {
+		if (otro.gameObject.tag == "perdervida" && gameObject.tag != "RecargaBalas" && gameObject.tag!= "Piedra" && gameObject.tag != "Vida") {
 			GameControl.restarVida();
+			
 			Debug.Log(GameControl.vida);
 		}
 
 		if (otro.gameObject.tag == "Jugador" && gameObject.tag == "RecargaBalas")
 		{
 			HudJuego.cantidadBalas += 15;
-			Debug.Log("recargado");
-			Destroy(gameObject);
+			sonidos.Play();
+			Destroy(gameObject, 0.23f);
 		}
-    }
+		if (otro.gameObject.tag == "Jugador" && gameObject.tag == "Piedra")
+		{
+			GameControl.restarVida();
+			sonidos.Play();
+		}
+		if (otro.gameObject.tag == "Jugador" && gameObject.tag == "Vida")
+		{
+			if (GameControl.aumentarVida())
+			{
+				sonidos.Play();
+				Destroy(gameObject, 0.3f);
+			}
+		}
+		
+
+	}
 
 
 
 	void recibirEstado(string state)
     {
+		
         if(state!= null)
         {
             animador.Play(state);

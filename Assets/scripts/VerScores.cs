@@ -32,10 +32,7 @@ public class VerScores : MonoBehaviour {
 		{
 			mensajes.text = "Error de conexion";
 		}
-		if (www.text[0] == '1')
-		{
-			mensajes.text = "Error de conexion";
-		}
+
 		else {
 			mensajes.text = "";
 			obtenerRegistros(www);
