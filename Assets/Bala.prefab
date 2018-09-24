@@ -117,7 +117,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2ab7a26042716a4985f52068a361752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cantidadBalas: 20
   speed: 12
+  balamuerte: {fileID: 1078361901173540, guid: 271842db76979834aa3aa80d82b6c70b, type: 2}
+  balamuerte1: {fileID: 1382130963249650, guid: 43afa7b393d70f948bef7a25648aa40b,
+    type: 2}
+  balamuerte2: {fileID: 1423265367171864, guid: 9907a01c27f4b11429ef11eda899dfa7,
+    type: 2}
+  balamuerte3: {fileID: 1015058680347120, guid: 307713c9633b7aa46957ce86359226e4,
+    type: 2}
 --- !u!212 &212440701229529858
 SpriteRenderer:
   m_ObjectHideFlags: 1

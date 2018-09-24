@@ -10,6 +10,8 @@ TagManager:
   - perdervida
   - Jugador
   - RecargaBalas
+  - Piedra
+  - Vida
   layers:
   - Default
   - TransparentFX

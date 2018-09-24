@@ -7,6 +7,10 @@ public class balaControl : MonoBehaviour {
     public int cantidadBalas = 20;
     public float speed = 1;
     Animator animador;
+	public GameObject balamuerte;
+	public GameObject balamuerte1;
+	public GameObject balamuerte2;
+	public GameObject balamuerte3;
 	// Use this for initialization
 	void Start () {
         Movimientosbala(speed);
@@ -24,17 +28,20 @@ public class balaControl : MonoBehaviour {
         {
             Destroy(gameObject);
         }
+		
     }
     void OnTriggerEnter2D(Collider2D otro)
     {
-        if (otro.gameObject.tag == "Enem1"|| otro.gameObject.tag == "Enem2")
+		
+		if (otro.gameObject.tag == "Enem1"|| otro.gameObject.tag == "Enem2" || otro.gameObject.tag== "Piedra")
         {
-            Destroy(gameObject);
+			Destroy(gameObject, 0.085f);
+			Movimientosbala(-1);
+			recibirEstado("Explota");
 			
-            recibirEstado("Explota");
-            
-        }
-    }
+
+		}
+	}
 
     void recibirEstado(string state)
     {

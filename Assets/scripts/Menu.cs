@@ -15,8 +15,13 @@ public class Menu : MonoBehaviour {
 	string[] datoUsuario;
 	public void callLogin()
 	{
+		//ususario para sinconexion
 		if (usuario.text == "debug")
 		{
+			BaseDatos.usuario = "debug";
+			BaseDatos.scoreActual = 0;
+			BaseDatos.ultscore = 0.ToString(); 
+			BaseDatos.maxscore = 0.ToString();
 			SceneManager.LoadScene(1);
 		}
 		else

@@ -8,16 +8,17 @@ public class Movimientos : MonoBehaviour {
 
 	// Use this for initialization
 	public GameObject body;
-	public float velocidad = 8.5f;
+	public float velocidad = 9.5f;
 	public float padding = 2.66f;
 	public GameObject bala;
 	public static bool activo;
+	public AudioSource sonidoDisparo;
 
 
 
 	void Start() {
 		activo = true;
-
+		
 	}
 
 	// Update is called once per frame
@@ -25,12 +26,22 @@ public class Movimientos : MonoBehaviour {
 	{
 		if (activo)
 		{
-			if (Input.GetKey(KeyCode.A))
+			
+			//movimientos flechas
+			if (Input.GetKey(KeyCode.LeftArrow))
+			{
+				this.transform.position -= new Vector3(velocidad * Time.deltaTime, 0, 0);
+			}else if (Input.GetKey(KeyCode.A))
 			{
 				this.transform.position -= new Vector3(velocidad * Time.deltaTime, 0, 0);
 			}
+			//movimientos a d
+			
 
-			else if (Input.GetKey(KeyCode.D))
+			 if (Input.GetKey(KeyCode.D))
+			{
+				this.transform.position += new Vector3(velocidad * Time.deltaTime, 0, 0);
+			}else if (Input.GetKey(KeyCode.RightArrow))
 			{
 				this.transform.position += new Vector3(velocidad * Time.deltaTime, 0, 0);
 			}
@@ -46,6 +57,8 @@ public class Movimientos : MonoBehaviour {
 				{
 
 					Invoke("Disparo", 0.01f);
+					sonidoDisparo.Play();
+					
 					HudJuego.cantidadBalas--;
 
 				}

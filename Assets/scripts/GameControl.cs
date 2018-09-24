@@ -19,6 +19,7 @@ public class GameControl : MonoBehaviour {
 	
 	
 	
+	
 
 
 	void Start () {
@@ -29,7 +30,7 @@ public class GameControl : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		//start game
-		if (vida < 0 && estados==EstadosJuego.jugando)
+		if (vida < 1 && estados==EstadosJuego.jugando)
 		{
 			
 			callScore();
@@ -71,14 +72,26 @@ public class GameControl : MonoBehaviour {
 		}
         
 	}
+	
 
 	public static void restarVida()
 	{
 		vida = vida - 1;
+	
 	}
-   
+	public static bool aumentarVida()
+	{
+		if (vida < 3)
+		{
+			vida = vida + 1;
+			return true;
+		}
+		else return false;
 
-    private void MoverFondo(float velocidad)
+	}
+
+
+	private void MoverFondo(float velocidad)
     {
         float velocidadfinal = velocidad * Time.deltaTime;
         background.uvRect = new Rect(0f, background.uvRect.y + velocidadfinal, 1f, 1f);
