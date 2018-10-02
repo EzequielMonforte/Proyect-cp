@@ -10,7 +10,7 @@ public class NaveEnem : MonoBehaviour {
 	public Animator animador;
     float velocidad=-4.2f;
     GameObject BalaEnem;
-    public float vida;
+    public int vida;
 	public AudioSource sonidos;
 	
 	
@@ -31,7 +31,14 @@ public class NaveEnem : MonoBehaviour {
 		}
 		if (gameObject.tag == "Enem2")
 		{
+			vida = 2;
 			CaracteristicasNave(-5, -7.2f);
+
+		}
+		if (gameObject.tag == "Enem3")
+		{
+			vida = 1;
+			CaracteristicasNave(-7, -9f);
 
 		}
 		if (gameObject.tag == "RecargaBalas")
@@ -85,6 +92,8 @@ public class NaveEnem : MonoBehaviour {
 			if (tag == "Enem1")
 				BaseDatos.scoreActual += 50;
 			if (tag == "Enem2")
+				BaseDatos.scoreActual += 25;
+			if (tag == "Enem3")
 				BaseDatos.scoreActual += 10;
 
 

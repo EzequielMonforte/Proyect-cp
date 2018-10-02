@@ -26,26 +26,30 @@ public class Movimientos : MonoBehaviour {
 	{
 		if (activo)
 		{
-			
+
 			//movimientos flechas
 			if (Input.GetKey(KeyCode.LeftArrow))
 			{
 				this.transform.position -= new Vector3(velocidad * Time.deltaTime, 0, 0);
-			}else if (Input.GetKey(KeyCode.A))
+			}
+			else if (Input.GetKey(KeyCode.A))
 			{
 				this.transform.position -= new Vector3(velocidad * Time.deltaTime, 0, 0);
 			}
-			//movimientos a d
 			
+			//movimientos a d
 
-			 if (Input.GetKey(KeyCode.D))
-			{
-				this.transform.position += new Vector3(velocidad * Time.deltaTime, 0, 0);
-			}else if (Input.GetKey(KeyCode.RightArrow))
+
+			if (Input.GetKey(KeyCode.D))
 			{
 				this.transform.position += new Vector3(velocidad * Time.deltaTime, 0, 0);
 			}
-			float xCorregir = Mathf.Clamp(transform.position.x, -10 + padding, 10 - padding);
+			else if (Input.GetKey(KeyCode.RightArrow))
+			{
+				this.transform.position += new Vector3(velocidad * Time.deltaTime, 0, 0);
+			}
+			
+				float xCorregir = Mathf.Clamp(transform.position.x, -10 + padding, 10 - padding);
 			this.transform.position = new Vector3(xCorregir, -8, 0);
 
 			//disparar
@@ -65,6 +69,23 @@ public class Movimientos : MonoBehaviour {
 			}
 			else if (Input.GetKeyUp(KeyCode.Space))
 				CancelInvoke("Disparo");
+			//android
+			if (Input.touchCount==1)
+			{
+
+				if (HudJuego.cantidadBalas > 0)
+				{
+
+					Invoke("Disparo", 0.01f);
+					sonidoDisparo.Play();
+
+					HudJuego.cantidadBalas--;
+
+				}
+				else if (Input.touchCount==0)
+					CancelInvoke("Disparo");
+			}
+			
 		}
 	}
 

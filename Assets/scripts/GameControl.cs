@@ -55,7 +55,7 @@ public class GameControl : MonoBehaviour {
 
 		}
 		
-		if (estados == EstadosJuego.espera && Input.GetKeyDown(KeyCode.Space))
+		if (estados == EstadosJuego.espera && (Input.GetKeyDown(KeyCode.Space)|| Input.touchCount == 1))
         {
 			Movimientos.activo = true;
             estados = EstadosJuego.jugando;

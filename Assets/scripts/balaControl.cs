@@ -33,7 +33,7 @@ public class balaControl : MonoBehaviour {
     void OnTriggerEnter2D(Collider2D otro)
     {
 		
-		if (otro.gameObject.tag == "Enem1"|| otro.gameObject.tag == "Enem2" || otro.gameObject.tag== "Piedra")
+		if (otro.gameObject.tag == "Enem1"|| otro.gameObject.tag == "Enem2" || otro.gameObject.tag== "Piedra" || otro.gameObject.tag=="Enem3")
         {
 			Destroy(gameObject, 0.085f);
 			Movimientosbala(-1);

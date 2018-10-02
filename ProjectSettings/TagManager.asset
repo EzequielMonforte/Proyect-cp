@@ -12,6 +12,7 @@ TagManager:
   - RecargaBalas
   - Piedra
   - Vida
+  - Enem3
   layers:
   - Default
   - TransparentFX
