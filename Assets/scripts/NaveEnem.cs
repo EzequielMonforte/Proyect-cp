@@ -8,7 +8,7 @@ using UnityEngine;
 public class NaveEnem : MonoBehaviour {
 
 	public Animator animador;
-    float velocidad=-4.2f;
+    float velocidad=-5f;
     GameObject BalaEnem;
     public int vida;
 	public AudioSource sonidos;
@@ -25,29 +25,29 @@ public class NaveEnem : MonoBehaviour {
 		//Establecer velocidades naves y objetos que aparecen
 		if (gameObject.tag == "Enem1")
 		{
-			vida = 5;
-			CaracteristicasNave(-2, -6);
+			vida = 8;
+			CaracteristicasNave(-3, -7);
 
 		}
 		if (gameObject.tag == "Enem2")
 		{
 			vida = 2;
-			CaracteristicasNave(-5, -7.2f);
+			CaracteristicasNave(-7f, -9f);
 
 		}
 		if (gameObject.tag == "Enem3")
 		{
 			vida = 1;
-			CaracteristicasNave(-7, -9f);
+			CaracteristicasNave(-9f, -12f);
 
 		}
 		if (gameObject.tag == "RecargaBalas")
 		{
-			velocidad = -6.1f; 
+			velocidad = -8.1f; 
 		}
 		if (gameObject.tag == "Piedra")
 		{
-			velocidad = -3.85f;
+			velocidad = -7.5f;
 		}
 
 
@@ -64,7 +64,7 @@ public class NaveEnem : MonoBehaviour {
     // Update is called once per frame
     void Update () {
 	
-		if (transform.position.y < -11)
+		if (transform.position.y < -15)
         {
             Destroy(gameObject);
             

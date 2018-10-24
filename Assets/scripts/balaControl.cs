@@ -24,7 +24,7 @@ public class balaControl : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-		if(this.transform.position.y> 10.5)
+		if(this.transform.position.y> 15)
         {
             Destroy(gameObject);
         }

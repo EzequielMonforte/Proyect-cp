@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 
 public class GameControl : MonoBehaviour {
 	public static int vida;
-    
+	public Canvas canvas;
     public RawImage background;
 	public enum EstadosJuego{ espera, jugando, final};
     public EstadosJuego estados = EstadosJuego.espera;
@@ -23,7 +23,7 @@ public class GameControl : MonoBehaviour {
 
 
 	void Start () {
-
+		
 		
 	}
 	

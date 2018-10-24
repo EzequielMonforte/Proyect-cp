@@ -10,6 +10,7 @@ public class Menu : MonoBehaviour {
 
 	public InputField usuario;
 	public InputField contrasena;
+	public InputField mail;
 	public Button log;
 	public Text mensajes;
 	string[] datoUsuario;

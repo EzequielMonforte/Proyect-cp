@@ -13,7 +13,7 @@ public class Movimientos : MonoBehaviour {
 	public GameObject bala;
 	public static bool activo;
 	public AudioSource sonidoDisparo;
-
+	bool plano = true;
 
 
 	void Start() {
@@ -24,6 +24,7 @@ public class Movimientos : MonoBehaviour {
 	// Update is called once per frame
 	void Update()
 	{
+		bool disparando = false;
 		if (activo)
 		{
 
@@ -34,7 +35,7 @@ public class Movimientos : MonoBehaviour {
 			}
 			else if (Input.GetKey(KeyCode.A))
 			{
-				this.transform.position -= new Vector3(velocidad * Time.deltaTime, 0, 0);
+				this.transform.position -= new Vector3(velocidad * Time.deltaTime,0, 0);
 			}
 			
 			//movimientos a d
@@ -50,7 +51,7 @@ public class Movimientos : MonoBehaviour {
 			}
 			
 				float xCorregir = Mathf.Clamp(transform.position.x, -10 + padding, 10 - padding);
-			this.transform.position = new Vector3(xCorregir, -8, 0);
+			this.transform.position = new Vector3(xCorregir, -10, 0);
 
 			//disparar
 
@@ -66,24 +67,29 @@ public class Movimientos : MonoBehaviour {
 					HudJuego.cantidadBalas--;
 
 				}
-			}
-			else if (Input.GetKeyUp(KeyCode.Space))
+			}else if (Input.GetKeyUp(KeyCode.Space))
 				CancelInvoke("Disparo");
 			//android
-			if (Input.touchCount==1)
+			if (Application.platform == RuntimePlatform.Android)
 			{
+				Vector3 normal = Input.acceleration;
 
-				if (HudJuego.cantidadBalas > 0)
+				if (plano)
+					normal = Quaternion.Euler(90, 0, 0)* normal;
+
+				this.transform.position+= new Vector3(normal.x, 0, 0);
+
+				if (Input.GetTouch(0).phase == TouchPhase.Began)
 				{
-
-					Invoke("Disparo", 0.01f);
-					sonidoDisparo.Play();
-
-					HudJuego.cantidadBalas--;
+					if (HudJuego.cantidadBalas > 0 && disparando == false)
+					{
+						Disparo();
+						sonidoDisparo.Play();
+						HudJuego.cantidadBalas--;
+					}
 
 				}
-				else if (Input.touchCount==0)
-					CancelInvoke("Disparo");
+
 			}
 			
 		}
